@@ -1,0 +1,229 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.main{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqrCAgkz9CE-fyl-LX8um843_lRxTrPZ9hSJu3smxC4AXsRKrWZ31PcihH4HmMQcPlHI&usqp=CAU");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+.main h3{
+    color: aliceblue;
+
+}
+ul{
+    float: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial,;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+    color: #ff720f;;
+}
+
+.nav{
+    text-align: center;
+    text-decoration-color: aliceblue;
+    
+
+}
+.nav a{
+    color: rgb(255, 255, 255);
+
+}
+.nav h1 {
+    color: aliceblue;
+    margin-top: 100px;
+}
+.nav p {
+    color: rgb(245, 245, 245);
+    
+}
+
+.contant .cn{
+    width: 160px;
+    height: 40px;
+    background-color: #109ec2ea;
+
+margin-bottom: 10px;
+margin-left: 20px;
+font-size: 12px;
+border-radius: 20px;
+cursor: pointer;
+transition: 0.4s;
+}
+.contant .cn1{
+    width: 160px;
+    height: 40px;
+    background-color:transparent;
+    
+margin-bottom: 10px;
+margin-left: 20px;
+font-size: 12px;
+border-radius: 20px;
+cursor: pointer;
+transition: 0.4s;
+}
+.contant .cn a{
+    text-decoration: none;
+    color:rgb(230, 223, 223);
+    transition: .3s;
+}
+
+
+.column45{
+ 
+    float:left ;
+    width: 20%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    margin-right: 8%;
+  }
+ .card45{
+   
+    margin: 8px;
+    padding: 0 8px;
+    float:left ;
+  }
+  .column45{
+ 
+    float:center ;
+    width: 20%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+ .card45{
+   
+    margin: 8px;
+    padding: 0 8px;
+    float: center ;
+  }
+  .column45{
+ 
+    float: right ;
+    width: 20%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+ .card45{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+   
+    margin: 8px;
+    padding: 0 8px;
+    float: right;
+  }
+  .youy{
+     
+      float: right;
+      margin-top: 5%;
+      margin-right: 5%;
+      font-size: large;
+  }
+  .you{
+      
+      margin-top: 30%;
+      margin-left: 10%;
+      height: auto;
+  }
+  /* .yoy{
+      margin-top: -40%;
+      font-size: small;
+      float: right;
+      margin-right: 10% ;
+
+  } */
+  .yy{
+    margin-top: -7%;
+    font-size: small;
+    float: right;
+    margin-right: 15% ;
+}
+.mai{
+    float: center;
+    text-align: center;
+    margin-top: 18%;
+}
+
+.column34{
+    margin-left:  15%;
+    margin-top: 2%;
+    font-size: smaller;
+    height: 200px;  ;
+}
+.column44{
+    margin-left: 40%;
+   margin-top: -21%;
+   font-size: smaller;
+   height: 250px;
+}
+.column54{
+    margin-left: 65%;
+   margin-top: -21%;
+   font-size: smaller;
+   
+}
+
+.clkk{
+    background-color: rgb(255, 225, 176);
+    margin-top: 5%;
+    height: 100px;
+}
+.class  p{
+   font-size: xx-small;
+   margin-left: 10%;
+}
+.class  h5{
+    margin-left: 10%;
+ }
+ .icon{
+    width: 250px;
+    float: left;
+    height: 70px;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.fa {
+    float: center;
+    padding: 5px;
+    font-size: 10px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    /* margin-left: ; */
+  }
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #0a195b;
+    color: white;
+    border-radius: 20px;
+  }
+  .fa-twitter {
+    background: #00111e;
+    color: white;
+    border-radius: 20px;
+  }
+  .fa-google {
+    background: #DD4B39;
+    color: white;
+    border-radius: 20px;
+  }
